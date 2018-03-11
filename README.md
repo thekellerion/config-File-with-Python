@@ -22,3 +22,9 @@ new                     test2.CATPart
 new                     test3.CATPart
 ```
 
+in python:
+```
+print (workingDir)   -> "c:/temp"
+meshed = ['test.CATPart', 'test1.CATPart']
+new = ['test2.CATPart', 'test3.CATPart']
+```
