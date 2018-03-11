@@ -14,13 +14,11 @@ There can be as many keyname as needed, but needs do be declared in the python-s
 
 
 
+```
 workingDir =             c:/temp
-
-meshed            test.CATPart
-
-meshed            test1.CATPart
-
-new               test2.CATPart
-
-new               test3.CATPart
+meshed                  test.CATPart
+meshed                  test1.CATPart
+new                     test2.CATPart
+new                     test3.CATPart
+```
 
